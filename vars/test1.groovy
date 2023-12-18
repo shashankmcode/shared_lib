@@ -1,1 +1,3 @@
-g
+def call(){
+    sh 'mvn test'
+}
